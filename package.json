@@ -1,0 +1,16 @@
+{
+  "name": "cremanaut",
+  "version": "0.1.0",
+  "description": "cheese and coffee cataloguing website",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uniqueusername/cremanaut.git"
+  },
+  "author": "ary jha",
+  "license": "MIT"
+}
